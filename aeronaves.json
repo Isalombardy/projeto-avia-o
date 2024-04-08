@@ -1,0 +1,1 @@
+[{"_prefixo":"ABC123","_tipo":"Particular","_velocidadeCruzeiro":500,"_autonomia":2000,"_empresa":"Empresa A","_capacidadePassageiros":4,"_pesoMaxCarga":1000},{"_prefixo":"DEF456","_tipo":"Comercial de Passageiros","_velocidadeCruzeiro":600,"_autonomia":2500,"_empresa":"Empresa B","_capacidadePassageiros":150,"_pesoMaxCarga":5000}]

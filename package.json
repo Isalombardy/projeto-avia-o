@@ -1,0 +1,13 @@
+{
+    "name": "poo_fase_2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "projetoAviacao.js",
+    "scripts": {
+      "start": "node projetoAviacao.js"
+    },
+    "author": "Isadora Lombardy",
+    "license": "MIT",
+    "type": "module"
+  }
+  
